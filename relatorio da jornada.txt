@@ -1,0 +1,2 @@
+seguindo o passo a passo do curso html 5 e css3 ,no final das contas cheguei ao resultado . Mas durante o caminho cometi alguns erros , e codigo ficou "poluido". 
+proximo passo refaser e deixar o codigo mais limpo.
